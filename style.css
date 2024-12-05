@@ -1,0 +1,41 @@
+h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    background-color: #c8b24e;
+    height: fit-content;
+    width: 1500px;
+
+}
+img {
+    width: 700px;
+    margin-left:400px;
+    
+
+}
+p{
+    text-align: center;
+    color: white;
+    background-color: blueviolet;
+
+   
+}
+a{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+button{
+    background-color: #e9c319;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+    margin-left: 400px;
+ cursor: alias;
+
+
+
+}
+h2{
+   text-decoration-line: underline;
+}
+
